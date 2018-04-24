@@ -1,1 +1,1 @@
-zabbix APIµÿ÷∑£∫https://www.zabbix.com/documentation/3.4/zh/manual/api
+zabbix APIÂú∞ÂùÄ https://www.zabbix.com/documentation/3.4/zh/manual/api
